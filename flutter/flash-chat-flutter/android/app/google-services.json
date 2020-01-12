@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "327977701391",
+    "firebase_url": "https://flash-chat-7cd77.firebaseio.com",
+    "project_id": "flash-chat-7cd77",
+    "storage_bucket": "flash-chat-7cd77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327977701391:android:ad8527b8477078e75a537a",
+        "android_client_info": {
+          "package_name": "co.ilshinjo.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327977701391-mkltnmf40p5shkgvmg9g4fp618g9lubd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALJs24_fUg_jJkwTISeBI3IjW-sb8a6Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327977701391-mkltnmf40p5shkgvmg9g4fp618g9lubd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
